@@ -1,6 +1,7 @@
 # repo-model
 *Repositório* **modelagem de software**.
 
+Teste de resolução de conflito:
 `code`
 
 > Sitação.
