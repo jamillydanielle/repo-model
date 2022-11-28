@@ -11,6 +11,5 @@
 Link com identação: 
 * [UFLA](ufla.br)
 
-Imagem:
-
+Imagem Git:
 ![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-cdPB7fpvhzDdUq-xvIBuK9rgBv6rPOYhqZGhZI&s)
