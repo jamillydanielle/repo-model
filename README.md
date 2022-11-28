@@ -10,7 +10,7 @@ Exemplo código em C++:
 3. Git Add
 4. Finalizar conceitos
 
-Link com identação: 
+Link com indentação: 
 * [UFLA](www.ufla.br)
 * [CAMPUS](www.campusvirtual.ufla.br)
 
