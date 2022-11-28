@@ -1,8 +1,8 @@
 # repo-model
 *Repositório* **modelagem de software**.
 
-Exemplo:
-`code`
+Exemplo código em C++:
+`cout << "Modelagem & Implementação de Software"`
 
 > Sitação.
 1. Listagem teste
@@ -11,8 +11,8 @@ Exemplo:
 4. Finalizar conceitos
 
 Link com identação: 
-* [UFLA](ufla.br)
-* [CAMPUS](link.invalido)
+* [UFLA](www.ufla.br)
+* [CAMPUS](www.campusvirtual.ufla.br)
 
 Imagem Git:
 ![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-cdPB7fpvhzDdUq-xvIBuK9rgBv6rPOYhqZGhZI&s)
