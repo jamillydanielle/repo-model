@@ -1,7 +1,7 @@
 # repo-model
 *Repositório* **modelagem de software**.
 
-Exemplo:
+Exemplo de Código:
 `code`
 
 > Sitação.
