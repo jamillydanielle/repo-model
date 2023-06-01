@@ -18,4 +18,4 @@ Imagem Git:
 
 ![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-cdPB7fpvhzDdUq-xvIBuK9rgBv6rPOYhqZGhZI&s)
 
-![Texto alternativo](https://drive.google.com/file/d/1cKd87cHzD2volh8lSPR4c_tXfZhc54HW/view?usp=sharing)
+![Texto alternativo](https://drive.google.com/file/d/1VffC7JNuCMzF-CRIFb1AfB01rtzBzq1Y/view?usp=sharing)
